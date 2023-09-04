@@ -1,10 +1,11 @@
 # Dynamic Arrays
 Java Dynamic Arrays Package
 
+This pack provides a set of dynamic arrays which has unique methods and have unlimited size.
 ## Usage 
 
 Fork this repository
 
 OR
 
-Download the zip and copy the "DynamicArrays.java"
+Click "Use this template"
